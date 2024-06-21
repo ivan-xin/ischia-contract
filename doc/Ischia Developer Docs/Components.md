@@ -8,7 +8,7 @@
 - Core Service: Verify points rules，Calculate the user's final points
 - Node Service: Provide node services that interact with the chain
 
-![Untitled](Components%20/components.png)
+![Untitled](Components/components.png)
 
 # Components relations
 
@@ -20,4 +20,4 @@
 6. The core service needs to build the transaction through the Node service and send the transaction to the chain.
 7. The Node service collects transaction data on the blockchain, And sends transactions to the blockchain.
 
-![Untitled](Components%20/components-relations.png)
+![Untitled](Components/components-relations.png)
